@@ -65,8 +65,13 @@ int main() {
     return 0;
 }
 ```
+
+
 # OUTPUT
+
 ![image](https://github.com/user-attachments/assets/f9cec631-feb4-4448-9256-30b3ea959869)
+
+
 
 # RESULT
  The program to implement a symbol table is executed and the output is verified.
